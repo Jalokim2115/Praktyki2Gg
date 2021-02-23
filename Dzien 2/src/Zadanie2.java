@@ -5,19 +5,20 @@ public class Zadanie2 {
         //Zadanie 2 Petle
 
         int x = 7;
-        int pierwsza = 1;
+        int pierwsza = 0;
         int druga = 1;
-        int Fibonacci = 1;
+        int Fibonacci;
 
 
-        System.out.print(pierwsza + "\t" + druga);
-        for(int i = 3; i <= x; i++){
+
+        for(int i = 1; i <= x; i++){
 
 
             Fibonacci = pierwsza + druga;
+            System.out.print(Fibonacci + "\t");
             pierwsza = druga;
             druga = Fibonacci;
-            System.out.print("\t" + Fibonacci);
+
         }
     }
 }

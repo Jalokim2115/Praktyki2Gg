@@ -30,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Zadanie3">
+  <component name="RunManager" selected="Application.Zadanie2">
     <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zadanie1" />
       <module name="Dzien 2" />
@@ -61,8 +61,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zadanie3" />
         <item itemvalue="Application.Zadanie2" />
+        <item itemvalue="Application.Zadanie3" />
         <item itemvalue="Application.Zadanie1" />
         <item itemvalue="Application.main" />
       </list>
@@ -89,5 +89,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
