@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e38659f-e6dd-416f-890f-c886ca0b5f3a" name="Default Changelist" comment="" />
+    <list default="true" id="49a6cff5-f8cd-410b-aad2-d8cea98c375d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1ozQVuolzSIVz1Kl2sENWm5lQUb" />
+  <component name="ProjectId" id="1p8DH1WzQe2iXZ9qycOiDgnXqTr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,48 +26,53 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Zadanie5">
-    <configuration name="Zadanie3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanie3" />
-      <module name="Dzien3" />
+  <component name="RunManager" selected="Application.Przykład8">
+    <configuration name="Przykład5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Przykład5" />
+      <module name="Dzien 4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanie4" />
-      <module name="Dzien3" />
+    <configuration name="Przykład6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Przykład6" />
+      <module name="Dzien 4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanie5" />
-      <module name="Dzien3" />
+    <configuration name="Przykład7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Przykład7" />
+      <module name="Dzien 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Przykład8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Przykład8" />
+      <module name="Dzien 4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zadanie5" />
-        <item itemvalue="Application.Zadanie4" />
-        <item itemvalue="Application.Zadanie3" />
+        <item itemvalue="Application.Przykład8" />
+        <item itemvalue="Application.Przykład7" />
+        <item itemvalue="Application.Przykład6" />
+        <item itemvalue="Application.Przykład5" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4e38659f-e6dd-416f-890f-c886ca0b5f3a" name="Default Changelist" comment="" />
-      <created>1614286968055</created>
+      <changelist id="49a6cff5-f8cd-410b-aad2-d8cea98c375d" name="Default Changelist" comment="" />
+      <created>1614555734396</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614286968055</updated>
+      <updated>1614555734396</updated>
     </task>
     <servers />
   </component>
@@ -81,6 +86,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
