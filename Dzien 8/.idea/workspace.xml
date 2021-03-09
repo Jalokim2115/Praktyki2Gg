@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8665c731-670d-418a-9ca9-facd1fc42215" name="Default Changelist" comment="" />
+    <list default="true" id="7207922c-d3f6-4ae8-ae08-193f01ac4d98" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1pROjVljwfkSHqEgAmu24w9jyR8" />
+  <component name="ProjectId" id="1pXVF1XKNxMhWkfdesE0nImVv99" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,7 +30,7 @@
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="Dzien 7" />
+      <module name="Dzien 8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -44,11 +44,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8665c731-670d-418a-9ca9-facd1fc42215" name="Default Changelist" comment="" />
-      <created>1615142572603</created>
+      <changelist id="7207922c-d3f6-4ae8-ae08-193f01ac4d98" name="Default Changelist" comment="" />
+      <created>1615329316999</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615142572603</updated>
+      <updated>1615329316999</updated>
     </task>
     <servers />
   </component>
@@ -62,6 +62,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
